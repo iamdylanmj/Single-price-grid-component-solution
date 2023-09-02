@@ -128,11 +128,6 @@ To see how you can add code snippets, see below:
     grid-template-rows: auto 1fr;
   }
 ```
-
-```
-
-
-
 ### Useful resources
 
 - [Box shadow templates](https://getcssscan.com/css-box-shadow-examples) - This site has a collection of box shadows, easy to use and great looking box shadows.
